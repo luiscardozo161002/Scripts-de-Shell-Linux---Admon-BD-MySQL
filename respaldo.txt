@@ -1,0 +1,7 @@
+Id_usuario	nombre	A_paterno	A_materno	puesto	sueldo	direccion	e_mail	telefono
+1	Alexander	Martinez	Trejo	Diseñador	3400.000	Canalejas	alex@gmail.com	9087562345
+2	Elif	Carranza	Carranza	Intendente	1000.000	Benito Juarez	elif@gmail.com	1234567890
+3	Sunny	Rivera	Salinas	Supervisor	400500.000	Tlaxcala	sunny@gmail.com	24121250516
+4	Luis	Cardozo	Salinas	Administrador	123500.000	Agua escondida	luis@gmail.com	8765433254
+5	Fabiola	Alvarez	Trejo	Contadora	5500.000	Jilotepec centro	Faby@gmail.com	5537157792
+6	Nora	Salinas	Rios	Ingeniera	50500.000	Las huertas	nora@gmail.com	8976546754
